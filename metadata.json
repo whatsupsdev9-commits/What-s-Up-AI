@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Studio - AI Game & Script Engine",
+  "description": "Conversational AI assistant with voice talk bar, image generation, and Roblox Studio & multi-game-engine script generator.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
